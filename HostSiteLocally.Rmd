@@ -2,13 +2,13 @@
 title: "R Notebook"
 output: html_notebook
 ---
-### Execute this if you do not have blogdown and Hugo installed yet.
+#### Execute this if you do not have blogdown and Hugo installed yet.
 ```{r}
 install.packages('blogdown')
 blogdown::install_hugo()
 ```
 
-### Set your working directory to CogSite
+#### Set your working directory to the CogSite folder and run this:
 ```{r}
 library("blogdown")
 
