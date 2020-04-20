@@ -5,7 +5,7 @@ Content for the Website of Cognitive Science Students at Aarhus University.
 
 **WORK IN PROGRESS**
 
-You can host the site locally by running the HostSiteLocally.Rmd, after what, you can see edit the website's content and see all changes made dynamically.
+You can host the site locally by running the HostSiteLocally.Rmd, after what, you can edit the website's content and see all changes made dynamically.
 
 
 
