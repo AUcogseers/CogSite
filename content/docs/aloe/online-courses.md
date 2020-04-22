@@ -4,6 +4,5 @@ bookFlatSection: true
 title: "Online courses"
 ---
 
-# A List of *Everything*?
-## How is that possible?
-Well now, just you go in and see, my friend...
+# Online courses
+Online courses relevant for data science and cognitive science.
