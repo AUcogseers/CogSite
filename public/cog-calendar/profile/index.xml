@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Understand the different levels of profile on CogSite</title>
-    <link>/cog-calendar/profile/</link>
+    <link>https://examplesite.com/cog-calendar/profile/</link>
     <description>Recent content in Understand the different levels of profile on CogSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="/cog-calendar/profile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/cog-calendar/profile/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

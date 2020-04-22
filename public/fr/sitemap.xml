@@ -1,330 +1,331 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/cog-calendar/ownership/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/ownership/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/ownership/"
+                href="https://examplesite.com/cog-calendar/ownership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/ownership/"
+                href="https://examplesite.com/fr/cog-calendar/ownership/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/linux/</loc>
+    <loc>https://examplesite.com/fr/archive/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/linux/"
+                href="https://examplesite.com/archive/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/linux/"
+                href="https://examplesite.com/fr/archive/linux/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/requirments/</loc>
+    <loc>https://examplesite.com/fr/aloe/requirments/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/requirments/"
+                href="https://examplesite.com/aloe/requirments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/requirments/"
+                href="https://examplesite.com/fr/aloe/requirments/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/install/</loc>
+    <loc>https://examplesite.com/fr/aloe/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/install/"
+                href="https://examplesite.com/aloe/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/install/"
+                href="https://examplesite.com/fr/aloe/install/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/mac/</loc>
+    <loc>https://examplesite.com/fr/archive/mac/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/mac/"
+                href="https://examplesite.com/archive/mac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/mac/"
+                href="https://examplesite.com/fr/archive/mac/"
                 />
   </url>
   
   <url>
-    <loc>/fr/cog-calendar/manage/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/manage/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/manage/"
+                href="https://examplesite.com/cog-calendar/manage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/manage/"
+                href="https://examplesite.com/fr/cog-calendar/manage/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/configuration/</loc>
+    <loc>https://examplesite.com/fr/aloe/configuration/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/configuration/"
+                href="https://examplesite.com/aloe/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/configuration/"
+                href="https://examplesite.com/fr/aloe/configuration/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/elements/</loc>
+    <loc>https://examplesite.com/fr/aloe/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/elements/"
+                href="https://examplesite.com/aloe/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/elements/"
+                href="https://examplesite.com/fr/aloe/elements/"
                 />
   </url>
   
   <url>
-    <loc>/fr/cog-calendar/bill/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/bill/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/bill/"
+                href="https://examplesite.com/cog-calendar/bill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/bill/"
+                href="https://examplesite.com/fr/cog-calendar/bill/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/routing/</loc>
+    <loc>https://examplesite.com/fr/archive/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/routing/"
+                href="https://examplesite.com/archive/routing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/routing/"
+                href="https://examplesite.com/fr/archive/routing/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/customization/</loc>
+    <loc>https://examplesite.com/fr/aloe/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/customization/"
+                href="https://examplesite.com/aloe/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/customization/"
+                href="https://examplesite.com/fr/aloe/customization/"
                 />
   </url>
   
   <url>
-    <loc>/fr/cog-calendar/payment/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/payment/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/payment/"
+                href="https://examplesite.com/cog-calendar/payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/payment/"
+                href="https://examplesite.com/fr/cog-calendar/payment/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/ubuntu/</loc>
+    <loc>https://examplesite.com/fr/archive/ubuntu/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/ubuntu/"
+                href="https://examplesite.com/archive/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/ubuntu/"
+                href="https://examplesite.com/fr/archive/ubuntu/"
                 />
   </url>
   
   <url>
-    <loc>/fr/cog-calendar/profile/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/profile/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/profile/"
+                href="https://examplesite.com/cog-calendar/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/profile/"
+                href="https://examplesite.com/fr/cog-calendar/profile/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/windows/</loc>
+    <loc>https://examplesite.com/fr/archive/windows/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/windows/"
+                href="https://examplesite.com/archive/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/windows/"
+                href="https://examplesite.com/fr/archive/windows/"
                 />
   </url>
   
   <url>
-    <loc>/fr/aloe/</loc>
+    <loc>https://examplesite.com/fr/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/fr/aloe/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/aloe/"
+                href="https://examplesite.com/aloe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/aloe/"
+                href="https://examplesite.com/fr/aloe/"
                 />
   </url>
   
   <url>
-    <loc>/fr/cog-calendar/</loc>
+    <loc>https://examplesite.com/fr/cog-calendar/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cog-calendar/"
+                href="https://examplesite.com/cog-calendar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/cog-calendar/"
+                href="https://examplesite.com/fr/cog-calendar/"
                 />
   </url>
   
   <url>
-    <loc>/fr/archive/</loc>
+    <loc>https://examplesite.com/fr/archive/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/"
+                href="https://examplesite.com/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/archive/"
+                href="https://examplesite.com/fr/archive/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>https://examplesite.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://examplesite.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://examplesite.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>https://examplesite.com/fr/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://examplesite.com/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://examplesite.com/fr/faq/"
                 />
   </url>
   
   <url>
-    <loc>/fr/faq/</loc>
+    <loc>https://examplesite.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="https://examplesite.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/faq/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
+                href="https://examplesite.com/fr/tags/"
                 />
   </url>
   
