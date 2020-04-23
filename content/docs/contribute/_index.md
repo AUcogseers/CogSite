@@ -1,10 +1,14 @@
 ---
 weight: 1
+bookCollapseSection: true
 title: "Contribute"
 ---
 
-# Contribute?
-The CogSite for Aarhus University's cognitive 
-science program is the epicenter of information`full stop`.
+# Contribute
+This page and its subpages show you how to contribute to this website. This is a list of instruction pages for your specific project:
 
-# How to contribute
+- [Writing in markdown](writing-in-markdown.md)
+- [Writing a blog post](writing-a-blog-post.md)
+  - [Example blog post](example-blog-post.md)
+- [Page settings](page-settings.md)
+- [Shortcodes](shortcodes.md)

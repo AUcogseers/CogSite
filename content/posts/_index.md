@@ -1,6 +1,6 @@
 ---
 after:
-  name: blog	
+  name: blog
   weight: 5
 bookCollapseSection: true
 title: Blog
