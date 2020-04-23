@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CogSite</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on CogSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>crowdsourcing</title>
+      <link>https://examplesite.com/categories/crowdsourcing/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/categories/crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
