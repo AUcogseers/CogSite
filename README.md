@@ -18,6 +18,3 @@ Pretty much everything. Start with:
 - Decide of a good file structure for the Amazing Lists Of Everything
 - Implement one list as a prototype
 
-## Links:
-
-- Initial collection of R packages: https://docs.google.com/spreadsheets/d/10a2JWhNXYrrt1N-kNr0LB8fGvKwHcWhf6VdUBz8wCCE/edit#gid=0
