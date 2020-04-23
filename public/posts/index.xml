@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on CogSite</title>
-    <link>https://examplesite.com/posts/</link>
-    <description>Recent content in Blog on CogSite</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Writing markdown</title>
-      <link>https://examplesite.com/posts/writing-in-markdown/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/posts/writing-in-markdown/</guid>
-      <description>Examples of markdown This is a third tier heading    First row item Another one!     This is some content, though Even more! When will it stop?    I can write code like this:
-# This is a code blockWriteBlogPost(new DateTime(DateTime.now()));&amp;hellip;though I might want to write other stuff as well. Maybe even link to some cool stuff. Or possibly have an image in my cool blog post:</description>
-    </item>
-    
-    <item>
-      <title>Example Blog Post</title>
-      <link>https://examplesite.com/posts/example-blog-post/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/posts/example-blog-post/</guid>
-      <description>This is my thesis statement This is a sample blog post I can write code like this:
-# This is a code blockWriteBlogPost(new DateTime(DateTime.now()));&amp;hellip;though I might want to write other stuff as well. Maybe even link to some cool stuff. Or possibly have an image in my cool blog post:
-But there&amp;rsquo;s also just these normal awesome text formatting things:
- This is italicized This is something else Oh my, there&amp;rsquo;s also a list in the middle of it all with checkmarks!</description>
-    </item>
-    
-    <item>
-      <title>Writing a blog post</title>
-      <link>https://examplesite.com/posts/writing-a-blog-post/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/posts/writing-a-blog-post/</guid>
-      <description>Introduction Writing a blog post for the CogSite is very simple. You basically just have to write the blog post in markdown (which you can read about how to do here), upload the images along with your blog post, and send a pull request so it can be incorporated into the main website!</description>
-    </item>
-    
-  </channel>
-</rss>

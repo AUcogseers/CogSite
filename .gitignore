@@ -1,18 +1,12 @@
-<<<<<<< HEAD
-
-public/
-
-.Rproj*
-*.Rproj
-=======
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+.Rproj*
+*.Rproj
 
 public/*
-
 public/
 
 CogSite.Rproj
->>>>>>> esben
+
