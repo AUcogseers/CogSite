@@ -1,4 +1,5 @@
 ---
+weight: 5
 after:
   name: blog
   weight: 5

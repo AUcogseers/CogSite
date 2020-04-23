@@ -1,20 +1,24 @@
 ---
-weight: 1
+weight: 20
+bookCollapseSection: true
 title: "About the CogSite"
 ---
 
-## What is this website??
-The CogSite if for Aarhus University's cognitive 
-science program as Wuhan was for the first months 
-of COVID-19; the epicenter.
+# CogSite
 
-## How do I help this amazing initiative??
+# What is the "CogSite"
+
+The CogSite is Aarhus University Cognitive Science program's Tower of Babel. The ultimate consolidation of information relevant for any level of cognitive science student and researcher.
+
+## How can I contribute
+
 You can do some of the following:
-- Write or propose a page to add to the List of Everything
-- Write a [blog post on CogSite](../../posts/writing-a-blog-post)
+
+- Write or propose a page to add to the list of everything
+- Write a [blog post on CogSite](../contribute/writing-a-blog-post)
 - Propose other cool things to add (can be _anything_)
 
-## Where can I find more info??
-There are several pages on this website for you to
-scour and find out how easy it is to find the coolest
-cognitive science-related things on CogSite.
+## Other information
+
+Information on writing the documents on this page can be found in the [Contribute](../contribute) section.
+Contact the team [here](contact)
