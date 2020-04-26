@@ -2,6 +2,11 @@
 
 Content for the Website of Cognitive Science Students at Aarhus University.
 
+## ANNOUNCEMENTS
+
+`commit 2020-04-26-23:41`
+Now using the ANNOUNCEMENTS for announcements.
+
 **WORK IN PROGRESS**
 
 You can host the site locally by running the HostSiteLocally.Rmd, after what, you can 
