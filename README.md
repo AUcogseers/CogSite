@@ -4,8 +4,13 @@ Content for the Website of Cognitive Science Students at Aarhus University.
 
 ## ANNOUNCEMENTS
 
+`commit 2020-04-26-23:47`
+"I think I’ll politely stay neutral in this otherwise intensely interesting debate" is
+Peter's updated announcement.
+
 `commit 2020-04-26-23:41`
 Now using the ANNOUNCEMENTS for announcements.
+
 
 **WORK IN PROGRESS**
 
