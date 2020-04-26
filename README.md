@@ -4,14 +4,22 @@ Content for the Website of Cognitive Science Students at Aarhus University.
 
 **WORK IN PROGRESS**
 
-You can host the site locally by running the HostSiteLocally.Rmd, after what, you can edit the website's content and see all changes made dynamically. Additionally, you can download `hugo-extended` with `choco install hugo-extended` if you have `chocolatey` downloaded. Then it's possible to use `hugo server` in the root folder and the website is hosted on port 1313 (by default).
+You can host the site locally by running the HostSiteLocally.Rmd, after what, you can 
+edit the website's content and see all changes made dynamically. Additionally, you 
+can download `hugo-extended` with `choco install hugo-extended` if you have 
+`chocolatey` downloaded. Then it's possible to use `hugo server` in the root 
+folder and the website is hosted on port 1313 (by default).
 
 ## Current state
 
 The technical elements are basically finished. The basic architecture is ready.
 
+Some sub-pages under "reinforced learning" and "the data frame" still needs to 
+be created but beyond that, they are mostly created (from the CogSite SideStruktur document)
+
 ### Structure
 
+[THIS IS DEPRECATED, SEE THE "COGSCI SIDESTRUKTUR" DOCUMENT]
 - Front page
   - Blog
     - Blog posts
@@ -40,7 +48,7 @@ A lot of the current goals are oriented with content:
 - [ ] Write the markdown tutorial
 - [ ] Write the github tutorial for contributing to the website
 - [ ] Specificize the contribution pages so it's _very easy_ to contribute
-- [ ] Decide a good file structure for the Amazing Lists Of Everything
+- [x] Decide a good file structure for the Amazing Lists Of Everything
 - [x] Implement one list as a prototype
 - [x] Implement the hugo-book theme
 - [x] Implement a basic hierarchical structure
