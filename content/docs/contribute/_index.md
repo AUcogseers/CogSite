@@ -1,10 +1,11 @@
 ---
-weight: 1
+weight: 20
 bookCollapseSection: true
 title: "Contribute"
 ---
 
 # Contribute
+
 This page and its subpages show you how to contribute to this website. This is a list of instruction pages for your specific project:
 
 - [Writing in markdown](writing-in-markdown.md)

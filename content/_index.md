@@ -1,9 +1,9 @@
 ---
-title: "CogSite"
+title: "Welcome to CogSci"
 bookFlatSection: true
 ---
 
-# CogSite
+# Welcome to CogSci!
 
 This is the front page and needs more specific content.
 
