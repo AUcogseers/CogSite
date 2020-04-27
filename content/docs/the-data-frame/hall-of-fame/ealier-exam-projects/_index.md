@@ -28,7 +28,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -38,7 +38,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -48,7 +48,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -60,7 +60,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -70,7 +70,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -80,7 +80,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -90,7 +90,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -100,7 +100,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -110,7 +110,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -120,7 +120,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -142,7 +142,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -152,7 +152,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 
 </br>
 
@@ -174,7 +174,7 @@ None yet
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 -->
 
 </br>
@@ -187,7 +187,7 @@ None yet
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 -->
 
 </br>
@@ -200,7 +200,7 @@ None yet
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
 -->
 
 </br>
@@ -213,7 +213,7 @@ None yet
 <!--
 |Title + Link |Authors | When |  
 |:------------|:-------|:-----|
-|[Interesting exam title 1](link_to_pdf.pdf) |Lord Pope the Second |May 2020 |
+|[Interesting exam title 1](pdfs/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |
 -->
 
 </br>
