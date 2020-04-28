@@ -3,14 +3,7 @@
 Content for the Website of Cognitive Science Students at Aarhus University.
 
 ## ANNOUNCEMENTS
-
-`commit 2020-04-26-23:47`
-"I think I’ll politely stay neutral in this otherwise intensely interesting debate" is
-Peter's updated announcement.
-
-`commit 2020-04-26-23:41`
-Now using the ANNOUNCEMENTS for announcements.
-
+A1: Added TODO tasks - refer to those to choose a random task you want to take up 
 
 **WORK IN PROGRESS**
 
@@ -30,34 +23,31 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Structure
 
 [THIS IS DEPRECATED, SEE THE "COGSCI SIDESTRUKTUR" DOCUMENT]
-- Front page
-  - Blog
-    - Blog posts
-  - Docs
-    - About
-      - Contact
-    - A list of everything
-      - Online courses
-    - Contribute
-      - Example blog post
-      - Page settings
-      - Shortcodes
-      - Writing a blog post
-      - Writing in markdown
-    - Neural network
-    - Programming
-      - R packages list
-      - R cheat site
 
 ## TO DO
 
-A lot of the current goals are oriented with content:
+A lot of the current goals are oriented around content:
 
 - [ ] Write a nice front page
+- [ ] Rewrite the structure of the online courses list
+ - Categories on the right side
+ - 2 lines for each course [hyperlink title] ([publisher]) -> [description]
+- [ ] Reinforced learning front page: Introduction and massive lists of resources
+- [ ] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
+- [ ] Move book market and AU environment to Social System
+- [ ] Create a level 1 called formal stuff
+- [ ] The data frame (Library) is for old data things
+- [ ] University courses list under formal stuff
+- [ ] Add the Study Café
+- [ ] Set up the blog structure (categories, tags, etc.)
+- [ ] Simplify simplify simplify on the left side - remove third level and reduce reduce
 - [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
 - [ ] Write the markdown tutorial
 - [ ] Write the github tutorial for contributing to the website
 - [ ] Specificize the contribution pages so it's _very easy_ to contribute
+- [ ] The Time of Content is Upon Us
+- [ ] Write all the teachers: Favorite books etc.
+- [ ] Embedding the calendar
 - [x] Decide a good file structure for the Amazing Lists Of Everything
 - [x] Implement one list as a prototype
 - [x] Implement the hugo-book theme
@@ -72,5 +62,6 @@ A lot of the current goals are oriented with content:
 ## Links and possible implementations
 
 - [x] Initial collection of R packages: https://docs.google.com/spreadsheets/d/10a2JWhNXYrrt1N-kNr0LB8fGvKwHcWhf6VdUBz8wCCE/edit#gid=0
-- [ ] The IV-fag list from Anna Stuckert
-- [x] Online courses lists from Esben Kran
+- [ ] The IV-fag list from Anna Stuckert (LINK)
+- [x] Online courses lists from Esben Kran (LINK)
+- [ ] YouTube video list by Peter (LNK)
