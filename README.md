@@ -65,3 +65,4 @@ A lot of the current goals are oriented around content:
 - [ ] The IV-fag list from Anna Stuckert (LINK)
 - [x] Online courses lists from Esben Kran (LINK)
 - [ ] YouTube video list by Peter (LNK)
+- [ ] Data Elixir (EPIIC)
