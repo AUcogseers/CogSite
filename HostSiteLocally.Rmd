@@ -14,8 +14,11 @@ library("blogdown")
 
 build_site()
 ```
-
-
+#### Run Live Locally in 'Viewer':
 ```{r}
+#### Run
+blogdown::serve_site()
+#### Terminate
+servr::daemon_stop(1)
 ```
 
