@@ -24,9 +24,10 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 1. Clone this reposititory, `git clone git@github.com:AUcogseers/CogSite.git`
 2. In the newly cloned folder (`cd CogSite`), download the theme with `git submodule update --init --recursive`
-3. Download the hugo files from within R with `blogdown::install_hugo()`
-4. Build the webpages in R with `blogdown::build_site()`
-5. Optionally, host a local webserver with `blogdown::serve_site()` and take it back down with `servr::daemon_stop(1)`
+3. Install the blogdown package in R: `install.packages("blogdown")`
+4. Download the hugo files from within R with `blogdown::install_hugo()`
+5. Build the webpages in R with `blogdown::build_site()`
+6. Optionally, host a local webserver with `blogdown::serve_site()` and take it back down with `servr::daemon_stop(1)`
 
 ### Structure
 
