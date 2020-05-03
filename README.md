@@ -20,6 +20,14 @@ The technical elements are basically finished. The basic architecture is ready.
 Some sub-pages under "reinforced learning" and "the data frame" still needs to 
 be created but beyond that, they are mostly created (from the CogSite SideStruktur document)
 
+## How to build the site locally
+
+1. Clone this reposititory, `git clone git@github.com:AUcogseers/CogSite.git`
+2. In the newly cloned folder (`cd CogSite`), download the theme with `git submodule update --init --recursive`
+3. Download the hugo files from within R with `blogdown::install_hugo()`
+4. Build the webpages in R with `blogdown::build_site()`
+5. Optionally, host a local webserver with `blogdown::serve_site()` and take it back down with `servr::daemon_stop(1)`
+
 ### Structure
 
 [THIS IS DEPRECATED, SEE THE "COGSCI SIDESTRUKTUR" DOCUMENT]
