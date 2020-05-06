@@ -1,3 +1,6 @@
+# SITE IS MOVED TO [GITLAB](https://gitlab.com/aucogseers/CogSite)
+## SEE LIVE SITE ON [aucogseers.gitlab.io/CogSite/](https://aucogseers.gitlab.io/CogSite/)
+
 # CogSite
 
 Content for the Website of Cognitive Science Students at Aarhus University.
