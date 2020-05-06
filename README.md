@@ -30,6 +30,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] HCI project, Sebastian and Blanka
 - [ ] Write a nice front page
 - [ ] Data storage
+- [ ] Blanka: Anonymous posts - mental health etc.
 - [ ] Zotero of awesome papers (to link to etc.) - nice-to-have
 - [x] Check the blog implementation (another header)
 - [x] Remove the duplicate front page
