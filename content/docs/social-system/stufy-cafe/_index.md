@@ -1,7 +1,7 @@
 ---
 weight: 10
 # bookFlatSection: true
-title: "CogFight"
+title: "Study Café"
 ---
 
-# CogFight
+# Study Café

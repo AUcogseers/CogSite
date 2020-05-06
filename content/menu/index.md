@@ -1,7 +1,9 @@
 ---
-headless: true
 # This file doesn't decide anything - it's automatic now
+headless: true
 ---
+
+THIS DOESN'T DO ANYTHING [AUTOMATIC]
 
 - **CogSite**
 - [About]({{< relref "/docs/about" >}})

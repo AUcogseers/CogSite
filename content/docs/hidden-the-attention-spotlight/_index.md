@@ -1,6 +1,7 @@
 ---
 weight: 4
-bookCollapseSection: true
+# bookCollapseSection: true
+hidden: true
 # bookFlatSection: true
 title: "The Attention Spotlight"
 ---

@@ -26,20 +26,25 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
-A lot of the current goals are oriented around content:
-
+- [ ] Hosting of website
+- [ ] HCI project, Sebastian and Blanka
 - [ ] Write a nice front page
-- [ ] Rewrite the structure of the online courses list
- - Categories on the right side
- - 2 lines for each course [hyperlink title] ([publisher]) -> [description]
+- [x] Check the blog implementation (another header)
+- [x] Remove the duplicate front page
+- [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
+- [ ] Update the logo link to the actual front page
+- [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title] ([publisher]) -> [description]
+- [ ] Rename the blog to Attention Spotlight or something like that
+- [ ] Ensure articles for the blog
 - [ ] Reinforced learning front page: Introduction and massive lists of resources
-- [ ] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
-- [ ] Move book market and AU environment to Social System
-- [ ] Create a level 1 called formal stuff
-- [ ] The data frame (Library) is for old data things
+- [x] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
+- [x] Move book market and AU environment to Social System
+- [x] Create a level 1 called formal stuff
+- [x] The data frame (Library) is for old data things
 - [ ] University courses list under formal stuff
-- [ ] Add the Study Café
+- [x] Add the Study Café
 - [ ] Set up the blog structure (categories, tags, etc.)
+- [ ] Add a "found a mistake" button --> link to the Issues page on Github
 - [ ] Simplify simplify simplify on the left side - remove third level and reduce reduce
 - [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
 - [ ] Write the markdown tutorial
@@ -58,6 +63,9 @@ A lot of the current goals are oriented around content:
 - [x] Write instructions on page settings
 - [x] Merge the esben branch and delete esben branch
 - [x] Write a sample list in the list of everything (online courses list)
+
+- Rename the data frame to the library
+
 
 ## Links and possible implementations
 

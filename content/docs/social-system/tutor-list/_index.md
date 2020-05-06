@@ -1,7 +1,7 @@
 ---
 weight: 10
 # bookFlatSection: true
-title: "CogTalks"
+title: "Tutor list"
 ---
 
-# CogTalks
+# Tutor list
