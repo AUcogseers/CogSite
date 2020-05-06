@@ -1753,33 +1753,10 @@ summary {
 <h4>Execute this if you do not have blogdown and Hugo installed yet.</h4>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuaW5zdGFsbC5wYWNrYWdlcygnYmxvZ2Rvd24nKVxuYGBgIn0= -->
-<pre class="r"><code>install.packages(&#39;blogdown&#39;)</code></pre>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuaW5zdGFsbC5wYWNrYWdlcygnYmxvZ2Rvd24nKVxuYmxvZ2Rvd246Omluc3RhbGxfaHVnbygpXG5gYGAifQ== -->
+<pre class="r"><code>install.packages('blogdown')
+blogdown::install_hugo()</code></pre>
 <!-- rnb-source-end -->
-<!-- rnb-output-begin eyJkYXRhIjoiSW5zdGFsbGluZyBwYWNrYWdlIGludG8g46S847ixQzovVXNlcnMvZXNiZW4vRG9jdW1lbnRzL1Ivd2luLWxpYnJhcnkvMy4246S847iyXG4oYXMg46S847ixbGli46S847iyIGlzIHVuc3BlY2lmaWVkKVxudHJ5aW5nIFVSTCAnaHR0cHM6Ly9jcmFuLnJzdHVkaW8uY29tL2Jpbi93aW5kb3dzL2NvbnRyaWIvMy42L2Jsb2dkb3duXzAuMTguemlwJ1xuQ29udGVudCB0eXBlICdhcHBsaWNhdGlvbi96aXAnIGxlbmd0aCAxNzIwMjkgYnl0ZXMgKDE2NyBLQilcbmRvd25sb2FkZWQgMTY3IEtCXG4ifQ== -->
-<pre><code>Installing package into 㤼㸱C:/Users/esben/Documents/R/win-library/3.6㤼㸲
-(as 㤼㸱lib㤼㸲 is unspecified)
-trying URL &#39;https://cran.rstudio.com/bin/windows/contrib/3.6/blogdown_0.18.zip&#39;
-Content type &#39;application/zip&#39; length 172029 bytes (167 KB)
-downloaded 167 KB</code></pre>
-<!-- rnb-output-end -->
-<!-- rnb-output-begin eyJkYXRhIjoicGFja2FnZSDigJhibG9nZG93buKAmSBzdWNjZXNzZnVsbHkgdW5wYWNrZWQgYW5kIE1ENSBzdW1zIGNoZWNrZWRcblxuVGhlIGRvd25sb2FkZWQgYmluYXJ5IHBhY2thZ2VzIGFyZSBpblxuXHRDOlxcVXNlcnNcXGVzYmVuXFxBcHBEYXRhXFxMb2NhbFxcVGVtcFxcUnRtcEtjNUEzSVxcZG93bmxvYWRlZF9wYWNrYWdlc1xuIn0= -->
-<pre><code>package ‘blogdown’ successfully unpacked and MD5 sums checked
-
-The downloaded binary packages are in
-    C:\Users\esben\AppData\Local\Temp\RtmpKc5A3I\downloaded_packages</code></pre>
-<!-- rnb-output-end -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYmxvZ2Rvd246Omluc3RhbGxfaHVnbygpXG5gYGAifQ== -->
-<pre class="r"><code>blogdown::install_hugo()</code></pre>
-<!-- rnb-source-end -->
-<!-- rnb-output-begin eyJkYXRhIjoiVGhlIGxhdGVzdCBIdWdvIHZlcnNpb24gaXMgMC42OS4xXG50cnlpbmcgVVJMICdodHRwczovL2dpdGh1Yi5jb20vZ29odWdvaW8vaHVnby9yZWxlYXNlcy9kb3dubG9hZC92MC42OS4xL2h1Z29fZXh0ZW5kZWRfMC42OS4xX1dpbmRvd3MtNjRiaXQuemlwJ1xuQ29udGVudCBsZW5ndGggNjQ5IGJ5dGVzXG5kb3dubG9hZGVkIDM2LjUgTUJcblxuSHVnbyBoYXMgYmVlbiBpbnN0YWxsZWQgdG8gQzpcXFVzZXJzXFxlc2JlblxcQXBwRGF0YVxcUm9hbWluZ1xcSHVnb1xuIn0= -->
-<pre><code>The latest Hugo version is 0.69.1
-trying URL &#39;https://github.com/gohugoio/hugo/releases/download/v0.69.1/hugo_extended_0.69.1_Windows-64bit.zip&#39;
-Content length 649 bytes
-downloaded 36.5 MB
-
-Hugo has been installed to C:\Users\esben\AppData\Roaming\Hugo</code></pre>
-<!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 </div>
@@ -1787,23 +1764,79 @@ Hugo has been installed to C:\Users\esben\AppData\Roaming\Hugo</code></pre>
 <h4>Set your working directory to the CogSite folder and run this:</h4>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeShcImJsb2dkb3duXCIpXG5cbmBgYCJ9 -->
-<pre class="r"><code>library(&quot;blogdown&quot;)
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYnVpbGRfc2l0ZSgpXG5cbmBgYCJ9 -->
+<pre class="r"><code>build_site()
 </code></pre>
 <!-- rnb-source-end -->
-<!-- rnb-output-begin eyJkYXRhIjoicGFja2FnZSDjpLzjuLFibG9nZG93buOkvOO4siB3YXMgYnVpbHQgdW5kZXIgUiB2ZXJzaW9uIDMuNi4zXG4ifQ== -->
-<pre><code>package 㤼㸱blogdown㤼㸲 was built under R version 3.6.3</code></pre>
+<!-- rnb-output-begin eyJkYXRhIjoiQnVpbGRpbmcgc2l0ZXMg4oCmIFdBUk4gMjAyMC8wNS8wNiAxNTo1NTo1OSBQYWdlICdwZGZzL2xpbmtfdG9fcGRmLnBkZicgbm90IGZvdW5kIGluICdkb2NzL3RoZS1kYXRhLWZyYW1lL2hhbGwtb2YtZmFtZS9lYWxpZXItZXhhbS1wcm9qZWN0cy9faW5kZXgubWQnXG5XQVJOIDIwMjAvMDUvMDYgMTU6NTU6NTkgUGFnZSAnQXV0b21hdGljYWxseS1kaWFnbm9zaW5nLW1lbnRhbC1kaXNvcmRlcnMtZnJvbS12b2ljZS1MdWR2aWctT2xzZW4tYmFjaGVsb3ItdGhlc2lzLWNvcnJlY3Rpb24jMS5wZGYnIG5vdCBmb3VuZCBpbiAnZG9jcy90aGUtZGF0YS1mcmFtZS9oYWxsLW9mLWZhbWUvZWFsaWVyLWV4YW0tcHJvamVjdHMvX2luZGV4Lm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU1OjU5IFBhZ2UgJy4uL2Fib3V0L2NvbnRhY3QnIG5vdCBmb3VuZCBpbiAnZG9jcy9yZWluZm9yY2VkLWxlYXJuaW5nL29ubGluZS1jb3Vyc2VzLm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU1OjU5IFBhZ2UgJy4vbWVkaWEvaW1hZ2UxLnBuZycgbm90IGZvdW5kIGluICdkb2NzL3JlaW5mb3JjZWQtbGVhcm5pbmcvb25saW5lLWNvdXJzZXMubWQnXG5XQVJOIDIwMjAvMDUvMDYgMTU6NTU6NTkgUGFnZSAnLi9tZWRpYS9pbWFnZTIucG5nJyBub3QgZm91bmQgaW4gJ2RvY3MvcmVpbmZvcmNlZC1sZWFybmluZy9vbmxpbmUtY291cnNlcy5tZCdcbldBUk4gMjAyMC8wNS8wNiAxNTo1NTo1OSBQYWdlICcuL21lZGlhL2ltYWdlMy5wbmcnIG5vdCBmb3VuZCBpbiAnZG9jcy9yZWluZm9yY2VkLWxlYXJuaW5nL29ubGluZS1jb3Vyc2VzLm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU1OjU5IFBhZ2UgJy4vYWJvdXQvY29udGFjdCcgbm90IGZvdW5kIGluICdkb2NzL19pbmRleC5tZCdcbldBUk4gMjAyMC8wNS8wNiAxNTo1NTo1OSBQYWdlICcuL2RvY3MvYWJvdXQvY29udGFjdCcgbm90IGZvdW5kIGluICdfaW5kZXgubWQnXG5cbiAgICAgICAgICAgICAgICAgICB8IEVOICBcbi0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS1cbiAgUGFnZXMgICAgICAgICAgICB8IDk5ICBcbiAgUGFnaW5hdG9yIHBhZ2VzICB8ICAwICBcbiAgTm9uLXBhZ2UgZmlsZXMgICB8IDgyICBcbiAgU3RhdGljIGZpbGVzICAgICB8IDg1ICBcbiAgUHJvY2Vzc2VkIGltYWdlcyB8ICAwICBcbiAgQWxpYXNlcyAgICAgICAgICB8ICAxICBcbiAgU2l0ZW1hcHMgICAgICAgICB8ICAxICBcbiAgQ2xlYW5lZCAgICAgICAgICB8ICAwICBcblxuVG90YWwgaW4gNDEwIG1zXG4ifQ== -->
+<pre><code>Building sites … WARN 2020/05/06 15:55:59 Page 'pdfs/link_to_pdf.pdf' not found in 'docs/the-data-frame/hall-of-fame/ealier-exam-projects/_index.md'
+WARN 2020/05/06 15:55:59 Page 'Automatically-diagnosing-mental-disorders-from-voice-Ludvig-Olsen-bachelor-thesis-correction#1.pdf' not found in 'docs/the-data-frame/hall-of-fame/ealier-exam-projects/_index.md'
+WARN 2020/05/06 15:55:59 Page '../about/contact' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:55:59 Page './media/image1.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:55:59 Page './media/image2.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:55:59 Page './media/image3.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:55:59 Page './about/contact' not found in 'docs/_index.md'
+WARN 2020/05/06 15:55:59 Page './docs/about/contact' not found in '_index.md'
+
+                   | EN  
+-------------------+-----
+  Pages            | 99  
+  Paginator pages  |  0  
+  Non-page files   | 82  
+  Static files     | 85  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 410 ms</code></pre>
 <!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
+</div>
+<div id="run-live-locally-in-viewer" class="section level4">
+<h4>Run Live Locally in ‘Viewer’:</h4>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyMjIyBSdW5cbmJsb2dkb3duOjpzZXJ2ZV9zaXRlKClcblxuYGBgIn0= -->
+<pre class="r"><code>#### Run
+blogdown::serve_site()
+</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiQnVpbGRpbmcgc2l0ZXMg4oCmIFdBUk4gMjAyMC8wNS8wNiAxNTo1NjowNCBQYWdlICdwZGZzL2xpbmtfdG9fcGRmLnBkZicgbm90IGZvdW5kIGluICdkb2NzL3RoZS1kYXRhLWZyYW1lL2hhbGwtb2YtZmFtZS9lYWxpZXItZXhhbS1wcm9qZWN0cy9faW5kZXgubWQnXG5XQVJOIDIwMjAvMDUvMDYgMTU6NTY6MDQgUGFnZSAnQXV0b21hdGljYWxseS1kaWFnbm9zaW5nLW1lbnRhbC1kaXNvcmRlcnMtZnJvbS12b2ljZS1MdWR2aWctT2xzZW4tYmFjaGVsb3ItdGhlc2lzLWNvcnJlY3Rpb24jMS5wZGYnIG5vdCBmb3VuZCBpbiAnZG9jcy90aGUtZGF0YS1mcmFtZS9oYWxsLW9mLWZhbWUvZWFsaWVyLWV4YW0tcHJvamVjdHMvX2luZGV4Lm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU2OjA1IFBhZ2UgJy4uL2Fib3V0L2NvbnRhY3QnIG5vdCBmb3VuZCBpbiAnZG9jcy9yZWluZm9yY2VkLWxlYXJuaW5nL29ubGluZS1jb3Vyc2VzLm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU2OjA1IFBhZ2UgJy4vbWVkaWEvaW1hZ2UxLnBuZycgbm90IGZvdW5kIGluICdkb2NzL3JlaW5mb3JjZWQtbGVhcm5pbmcvb25saW5lLWNvdXJzZXMubWQnXG5XQVJOIDIwMjAvMDUvMDYgMTU6NTY6MDUgUGFnZSAnLi9tZWRpYS9pbWFnZTIucG5nJyBub3QgZm91bmQgaW4gJ2RvY3MvcmVpbmZvcmNlZC1sZWFybmluZy9vbmxpbmUtY291cnNlcy5tZCdcbldBUk4gMjAyMC8wNS8wNiAxNTo1NjowNSBQYWdlICcuL21lZGlhL2ltYWdlMy5wbmcnIG5vdCBmb3VuZCBpbiAnZG9jcy9yZWluZm9yY2VkLWxlYXJuaW5nL29ubGluZS1jb3Vyc2VzLm1kJ1xuV0FSTiAyMDIwLzA1LzA2IDE1OjU2OjA1IFBhZ2UgJy4vYWJvdXQvY29udGFjdCcgbm90IGZvdW5kIGluICdkb2NzL19pbmRleC5tZCdcbldBUk4gMjAyMC8wNS8wNiAxNTo1NjowNSBQYWdlICcuL2RvY3MvYWJvdXQvY29udGFjdCcgbm90IGZvdW5kIGluICdfaW5kZXgubWQnXG5cbiAgICAgICAgICAgICAgICAgICB8IEVOICBcbi0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS1cbiAgUGFnZXMgICAgICAgICAgICB8IDk5ICBcbiAgUGFnaW5hdG9yIHBhZ2VzICB8ICAwICBcbiAgTm9uLXBhZ2UgZmlsZXMgICB8IDgyICBcbiAgU3RhdGljIGZpbGVzICAgICB8IDg1ICBcbiAgUHJvY2Vzc2VkIGltYWdlcyB8ICAwICBcbiAgQWxpYXNlcyAgICAgICAgICB8ICAxICBcbiAgU2l0ZW1hcHMgICAgICAgICB8ICAxICBcbiAgQ2xlYW5lZCAgICAgICAgICB8ICAwICBcblxuVG90YWwgaW4gNTM3IG1zXG4ifQ== -->
+<pre><code>Building sites … WARN 2020/05/06 15:56:04 Page 'pdfs/link_to_pdf.pdf' not found in 'docs/the-data-frame/hall-of-fame/ealier-exam-projects/_index.md'
+WARN 2020/05/06 15:56:04 Page 'Automatically-diagnosing-mental-disorders-from-voice-Ludvig-Olsen-bachelor-thesis-correction#1.pdf' not found in 'docs/the-data-frame/hall-of-fame/ealier-exam-projects/_index.md'
+WARN 2020/05/06 15:56:05 Page '../about/contact' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:56:05 Page './media/image1.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:56:05 Page './media/image2.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:56:05 Page './media/image3.png' not found in 'docs/reinforced-learning/online-courses.md'
+WARN 2020/05/06 15:56:05 Page './about/contact' not found in 'docs/_index.md'
+WARN 2020/05/06 15:56:05 Page './docs/about/contact' not found in '_index.md'
+
+                   | EN  
+-------------------+-----
+  Pages            | 99  
+  Paginator pages  |  0  
+  Non-page files   | 82  
+  Static files     | 85  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 537 ms</code></pre>
+<!-- rnb-output-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiY3JlYXRlVGNwU2VydmVyOiBhZGRyZXNzIGFscmVhZHkgaW4gdXNlXG5UbyBzdG9wIHRoZSBzZXJ2ZXIsIHJ1biBzZXJ2cjo6ZGFlbW9uX3N0b3AoMikgb3IgcmVzdGFydCB5b3VyIFIgc2Vzc2lvblxuU2VydmluZyB0aGUgZGlyZWN0b3J5IC9Vc2Vycy9zZWJhc3RpYW5zY290dGVuZ2VuL0RvY3VtZW50cy9HaXRIdWIvQ29nU2l0ZSBhdCBodHRwOi8vMTI3LjAuMC4xOjQzMzRcbiJ9 -->
+<pre><code>createTcpServer: address already in use
+To stop the server, run servr::daemon_stop(2) or restart your R session
+Serving the directory /Users/sebastianscottengen/Documents/GitHub/CogSite at http://127.0.0.1:4334</code></pre>
+<!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 </div>
 
-<div id="rmd-source-code">LS0tDQp0aXRsZTogIlIgTm90ZWJvb2siDQpvdXRwdXQ6IGh0bWxfbm90ZWJvb2sNCi0tLQ0KIyMjIyBFeGVjdXRlIHRoaXMgaWYgeW91IGRvIG5vdCBoYXZlIGJsb2dkb3duIGFuZCBIdWdvIGluc3RhbGxlZCB5ZXQuDQpgYGB7cn0NCmluc3RhbGwucGFja2FnZXMoJ2Jsb2dkb3duJykNCmJsb2dkb3duOjppbnN0YWxsX2h1Z28oKQ0KYGBgDQoNCiMjIyMgU2V0IHlvdXIgd29ya2luZyBkaXJlY3RvcnkgdG8gdGhlIENvZ1NpdGUgZm9sZGVyIGFuZCBydW4gdGhpczoNCmBgYHtyfQ0KbGlicmFyeSgiYmxvZ2Rvd24iKQ0KDQpidWlsZF9zaXRlKCkNCmBgYA0KDQoNCmBgYHtyfQ0KYGBgDQoNCg==</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiUiBOb3RlYm9vayIKb3V0cHV0OiBodG1sX25vdGVib29rCi0tLQojIyMjIEV4ZWN1dGUgdGhpcyBpZiB5b3UgZG8gbm90IGhhdmUgYmxvZ2Rvd24gYW5kIEh1Z28gaW5zdGFsbGVkIHlldC4KYGBge3J9Cmluc3RhbGwucGFja2FnZXMoJ2Jsb2dkb3duJykKYmxvZ2Rvd246Omluc3RhbGxfaHVnbygpCmBgYAoKIyMjIyBTZXQgeW91ciB3b3JraW5nIGRpcmVjdG9yeSB0byB0aGUgQ29nU2l0ZSBmb2xkZXIgYW5kIHJ1biB0aGlzOgpgYGB7cn0KbGlicmFyeSgiYmxvZ2Rvd24iKQoKYnVpbGRfc2l0ZSgpCmBgYAojIyMjIFJ1biBMaXZlIExvY2FsbHkgaW4gJ1ZpZXdlcic6CmBgYHtyfQojIyMjIFJ1bgpibG9nZG93bjo6c2VydmVfc2l0ZSgpCiMjIyMgVGVybWluYXRlCnNlcnZyOjpkYWVtb25fc3RvcCgxKQpgYGAKCg==</div>
 
 
 
